@@ -1,2 +1,2 @@
-# dataiku-interview-assignment
-Code for completing the assignment for the Senior Data Scientist role at Dataiku.
+# Income Drivers.
+Code for predicting whether individuals make above or below $50k a year using US Census demographic and socioeconomic data.
